@@ -6,7 +6,7 @@
 ![Marcos's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcosmarfi&show_icons=true&theme=dark)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcosmarfi&langs_count=8&show_icons=true&theme=dark&layout=compact)](https://github.com/marcosmarfi/github-readme-stats)
 
 ##
-##### Já tive/tenho algum contato com:
+##### Tive/tenho contato com:
 <div style="display: inline_block">
   <img align="center" alt="JS" height="25" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img align="center" alt="HTML" height="25" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
