@@ -5,12 +5,23 @@
 
 ![Marcos's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcosmarfi&show_icons=true&theme=dark)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcosmarfi&langs_count=8&show_icons=true&theme=dark&layout=compact)](https://github.com/marcosmarfi/github-readme-stats)
 
-<div style="display: inline_block"><br>
+##
+##### Já tive/tenho algum contato com:
+<div style="display: inline_block">
   <img align="center" alt="JS" height="25" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img align="center" alt="HTML" height="25" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img align="center" alt="CSS" height="25" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img align="center" alt="Python" height="25" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img align="center" alt="Arduino" height="25" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img align="center" alt="Arduino" height="25" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
+</div>
+
+##
+##### Habilidades com:
+<div>
+  <img align="center" alt="PS" height="25" src="https://aleen42.github.io/badges/src/photoshop.svg">
+  <img align="center" alt="AI" height="25" src="https://aleen42.github.io/badges/src/illustrator.svg">
+  <img align="center" alt="PR" height="25" src="https://aleen42.github.io/badges/src/premiere.svg">
 </div>
 
 ##
